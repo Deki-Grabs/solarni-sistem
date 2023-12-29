@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    background-image:url(resources/svemirq.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+.sistem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 400px;
+    align-items: center;
+    margin: 0;
+    color: white;
+}
+
+.sistem img{
+    height: 100px;
+    width: auto;
+
+}
+
+#naslov{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 100px;
+    font-size: 100px;
+}
+
+#planetetxt{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.planete{
+    height: 100vh;
+}
+
+#suncestr{
+    background-color: rgb(18,12,12);
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    display: flex;
+}
+
+.suncepodaci{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.suncebox{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+#sunbox1, #sunbox2{
+    display: flex;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+#merkurstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    display: flex;
+}
+
+.merkurpodaci{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.merkurbox{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+#merbox1, #merbox2{
+    display: flex;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+#venerastr{
+    background-color: rgb(18,12,12);
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    display: flex;
+}
+
+.venerapodaci{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.venerabox{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+#venbox1, #venbox2{
+    display: flex;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+#zemljastr{
+    background-color: rgb(18,12,12);
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    display: flex;
+}
+
+.zemljapodaci{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.zemljabox{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+#zembox1, #zembox2{
+    display: flex;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+#marsstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    display: flex;
+}
+
+.marspodaci{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.marsbox{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+#marbox1, #marbox2{
+    display: flex;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+#jupiterstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    height: 100vh;
+}
+
+#saturnstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    height: 100vh;
+}
+
+#uranstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    height: 100vh;
+}
+
+#neptunstr{
+    background-color: rgb(18,12,12);
+    color: white;
+    height: 100vh;
+}
